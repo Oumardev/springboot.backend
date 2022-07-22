@@ -1,4 +1,4 @@
-package com.oumardev.springstart;
+package com.oumardev.springstart.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
